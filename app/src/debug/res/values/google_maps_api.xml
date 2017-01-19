@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=4A:2B:17:CE:67:6F:C9:A2:81:95:AB:43:16:4C:FB:00:67:4D:CD:C3%3Bhunter.black.nextdoor
+
+    You can also add your credentials to an existing key, using this line:
+    4A:2B:17:CE:67:6F:C9:A2:81:95:AB:43:16:4C:FB:00:67:4D:CD:C3;hunter.black.nextdoor
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+
+    next-door-155006
+
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+         AIzaSyAfF_K0JwLi9ZVO1m_CiLyy9w28me_Tn1c
+    </string>
+</resources>
